@@ -15,7 +15,14 @@ I'm a student at the University of Porto, currently pursuing a bachelor's degree
   <img align="center" alt="Iara-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Iara-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Iara-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="Iara-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">   
+  <img align="center" alt="Iara-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Iara-Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Iara-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Iara-Keras" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg">
+  <img align="center" alt="Iara-Matlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Iara-Matplotlib" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg">
+  <img align="center" alt="Iara-Scikitlearn" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="center" alt="Iara-VS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg">
 </div>
 
 #
