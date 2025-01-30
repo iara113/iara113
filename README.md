@@ -1,7 +1,9 @@
 ## Hi there, I'm ✦ Iara ✦ 
 
 ### About me 
-I'm a student at the University of Porto, currently pursuing a bachelor's degree in Artificial Intelligence and Data Science.
+Artificial Intelligence and Data Science specialist with a solid expertise in machine learning, data processing and analysis, and algorithm development. Graduated from University of Porto with a Bachelor's degree in Artificial Intelligence and Data Science, which provided me with strong knowledge of several programming languages with a particular preference in Python.
+
+Currently, I am pursuing a Master's degree in Medical Informatics, focusing on the use of machine learning for early disease detection and algorithms to assist in surgical procedures. This intersection of AI, Data Science, and healthcare is a field I find particularly inspiring as it holds the potential to contribute significantly to advancements in medical technology and patient care.
 #
 <div>
   <a href="https://github.com/iara113">
